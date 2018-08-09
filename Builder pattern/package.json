@@ -1,0 +1,11 @@
+{
+  "name": "builder-pattern",
+  "version": "1.0.0",
+  "description": "A builder design pattern implementation in node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saravanan A R",
+  "license": "ISC"
+}
